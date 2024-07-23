@@ -6,4 +6,10 @@ Dataset: https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-re
 Walmart e-commerce reviews dataset
 
 Created on Google colab workspace. Files in drive
+
+
+# Custom Chat Bot
+Udacity
+Project: Create a Custom Chatbot
+Data: character_descriptions.csv
       
